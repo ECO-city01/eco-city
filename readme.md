@@ -13,3 +13,7 @@ Citoyen
 → ♻️ classification/valorisation
 → 📊 statistiques
 → 🏛️ tableau de bord de la commune
+
+## 📌 Suivi du Projet (Kanban)
+Le tableau de bord et le suivi des tâches (Issues) de l'équipe sont gérés en temps réel ici :
+👉 [Accéder au Tableau Kanban ECO-CITY](https://github.com/users/alyassinn5/projects/2/views/1)
